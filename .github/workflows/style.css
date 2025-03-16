@@ -1,0 +1,585 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lavenderblush;
+    position: relative;
+}
+.img{
+    position:absolute;
+    width: 100%;
+    height: 600px;
+}
+.div1{
+    color: black;
+    background-color:rgb(195, 236, 236);
+    padding: 15px;
+    margin: 155px;
+    margin-top: 2%;
+    width: 70%;
+    position:absolute;
+    opacity: 80%;
+}
+li:hover{
+    color: blueviolet;
+    cursor: pointer;
+}
+li,ul{
+    display: inline;
+}
+.div,h2{
+    display: inline;
+}
+ul{
+    margin-left: 40%;
+}
+li{
+    margin-left: 8px;
+}
+.d{
+    border: 2px solid black;
+    padding: 5px 13px;
+    border-radius: 15px;
+}
+.div2{
+    margin-top: none;
+    position:absolute;
+    padding: 250px;
+    width: 440px;
+    color: aliceblue;
+    padding-left: 130px;
+  
+}
+.h3{
+    margin-top: 10px;
+}
+.btn:hover{
+    margin-top:30px ;
+    padding: 13px 20px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+}
+.btn{
+    margin-top:30px ;
+    padding: 7px 13px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    color: black;
+}
+.div3{
+    position:absolute;
+    color: black;
+    background-color: rgb(236, 229, 167);
+    margin: 500px;
+    margin-right: 0;
+    text-align: center;
+    width: 700px;
+    padding: 40px;
+    border-radius: 20px;
+}
+.cla{
+    display: flex;
+    justify-content: space-evenly;
+}
+.in{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    border-radius: 5px;
+}
+.dt:hover{
+    margin-top: 20px;
+    padding: 7px 50px;
+    border-radius: 17px;
+    background-color: rgb(233, 19, 19);
+    color: bisque;
+    cursor: pointer;
+}
+.dt{
+    margin-top: 20px;
+    padding: 7px 50px;
+    border-radius: 17px;
+    background-color: darkslateblue;
+    color: rgb(248, 250, 250);
+}
+.paraGraph{
+    position: absolute;
+    bottom: 20;
+    margin-top: 10px;
+    color: black;
+    top: 850px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.boxes i.billi{
+    font-size: 15px;
+    background:transparent;
+    position: relative;
+    display: inline;
+    margin-top: 10px;
+    padding: 0;
+}
+.to{
+    margin-top: 20px;
+}
+.boxes{
+    position: relative;
+    bottom: 0;
+    top: 930px;
+    width: 225px;
+    height: 300px;
+    font-size:30px;
+    background-color:rgb(240, 190, 174);
+    padding: 15px;
+    border-radius: 7px;
+}
+.pi{
+    font-size:large;
+    margin-top: 15px;
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.div5{
+    width: 100% auto;
+    height: 650px;
+    background-color: rgb(84, 83, 87);
+    top: 1000px;
+    position:relative;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.clean{
+    width: 350px;
+    height: 400px;
+    border-radius: 10px;
+    cursor: pointer;
+    position:relative;
+}
+.divbox{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 50px;
+    position: relative;
+}
+.bt:hover{
+    background-color:rgb(7, 195, 252);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding: 13px 20px;
+    border-radius: 20px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.bt{
+    background-color:rgb(221, 221, 221);
+    color: rgb(82, 76, 76);
+    font-size: 13px;
+    padding: 9px 18px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+.dddd{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 13px 100px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.div6{
+    height: 160px;
+    background-color: rgb(250, 214, 167);
+    position: relative;
+    margin-top: 1050px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    padding: 40px;
+}
+.div7{
+    text-align: center;
+    margin-top: 70px;
+}
+.div77{
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+    
+}
+.bad{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 30px;
+}
+.dod{
+    margin-left: 20px;
+}
+.di{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dad{
+    display: flex;
+   justify-content: space-evenly;
+   margin-top: 30px;
+}
+.aa{
+    font-size: 40px;
+    margin-top: 30px;
+}
+.aaa{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bbb{
+    font-family:fantasy;
+}
+.ccc{
+    font-family: cursive;
+}
+.ggg{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}.ppp{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.odd{
+   width: 100%;
+   height: 450px;
+   margin-top: 40px;
+   position:absolute;
+}
+.div8{
+    width: 100%;
+}
+.bi{
+    font-size: 40px;
+    background-color: rgb(255, 233, 201);
+    padding: 20px;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+.star{
+    position:relative;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 40px;
+    padding-top: 150px;
+}
+.str{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+}
+.par{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(245, 240, 240);
+   
+    
+}
+.dar:hover{
+    background-color:black;
+    color: rgb(245, 201, 201);
+    padding: 13px 35px;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.dar{
+    background-color: whitesmoke;
+    color: rgb(75, 71, 71);
+    padding: 13px 35px;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.div9{
+    background-color: rgb(92, 119, 134);
+    width: 100%;
+    height: 1000px;
+}
+.divine{
+    position:absolute;
+    margin-top: 380px;
+    width: 325px;
+    padding-left:70px ;
+    color: white;
+    margin-left: 30px;
+    text-align: center;
+}
+.div10{
+    background-color: khaki;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 800px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: center;
+}
+.div11{
+    background-color: rgb(209, 211, 190);
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    margin-top: 630px;
+    margin-left: 800px;
+    
+}
+.pppp{
+    background-color: black;
+    display: inline;
+    color: white;
+    font-size: 15px;
+}
+.dddd:hover{
+    border-radius: 20px;
+    background-color: rgb(235, 23, 23);
+    color: rgb(201, 202, 214);
+    padding: 13px 100px;
+    margin-top: 40px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.dddd{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 13px 100px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.h3{
+    margin-top: 20px;
+}
+.dhara{
+    margin-top: 10px;
+}
+.h1{
+    margin-top: 20px;
+}
+.name{
+    background: transparent;
+    margin-left: 35px;
+    font-size:30px;
+}
+.symb{
+    margin-top: 45px;
+}
+.classiam{
+    display: flex;
+}
+.space{
+    margin-top:45px ;
+    font-size: 35px;
+}
+.div12{
+    height: 550px;
+}
+.dada{
+    margin-top:150px ;
+    display: flex;
+    justify-content: space-evenly;
+}
+.abd:hover{
+    height: 450px;
+    width: 400px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.why{
+    width: 600px;
+    height: 500px;
+    color:rgb(48, 46, 46);
+  
+    margin-top: 3px;
+    padding: 20px 30px; 
+}
+.dilli{
+    background-color: royalblue;
+    padding:3px;
+    display: inline;
+    font-size:20px;
+    justify-content: space-evenly;
+}
+.lam{
+    background-color: royalblue;
+    padding:3px;
+    display: inline;
+    font-size:20px;
+}
+.team{
+    display: inline;
+}
+.same{
+    display: inline;
+}
+.out{
+    display: inline;
+}
+.eco{
+    display: inline;
+}
+.dil{
+    margin-left: 65px;
+    background-color: royalblue;
+    padding:3px;
+    display: inline;
+    font-size: 20px;
+}
+.lm{
+    margin-left: 20px;
+    background-color: royalblue;
+    padding:3px;
+    display: inline;
+    font-size: 20px; 
+}
+.qua{
+    padding: 40px 10px;
+    
+}
+.lifi{
+    padding: 40px 10px;
+}
+.click{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.link{
+    font-size:15px;
+    margin-left: 20px;
+}
+.emmet{
+    display: flex;
+    justify-content:left;
+    margin-right: 50px;
+}
+.know{
+    padding: 13px 20px;
+    margin-left: 25px;
+    border-radius: 20px; 
+    color: bisque;
+    background-color: rgb(52, 84, 143);
+}
+.know:hover{
+    padding: 9px 20px;
+    margin-left: 25px;
+    border-radius: 20px;
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+}
+.hover{
+    width: 100%;
+}
+.div14{
+    height: 350px;
+    background-color: rgb(32, 35, 80);
+    display: flex;
+    color: rgb(214, 211, 211);
+}
+.tion{
+     width: 250px;
+     text-align: center;
+     padding: 50px 25px;
+}
+.doct:hover{
+    margin-top: 75px;
+    padding: 13px 40px;
+    background-color: rgb(56, 119, 182);
+    color: rgb(253, 253, 255);
+    border-radius: 20px;
+    cursor: pointer;
+}
+.doct{
+    margin-top: 75px;
+    padding: 9px 40px;
+    background-color: rgb(246, 247, 248);
+    color: rgb(13, 13, 14);
+    border-radius: 20px;
+}
+.via{
+    width:210px;
+  padding: 30px;
+  margin-left: 10px;
+}
+.font{
+    margin-right:170px;
+}
+.legal{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: normal;
+
+}
+.hours{
+    width:210px;
+  padding: 20px;
+  margin-top: 10px;
+}
+.time{
+    font-size: 20px;
+    font-weight: normal;
+    margin-top:20px ;
+}
+.daba{
+    margin-top: 40px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.tube{
+    background: transparent;
+    color: rgb(228, 220, 220);
+    font-size: 25px;
+    padding: 0;
+}
+.music{
+    background: transparent;
+    color: rgb(228, 222, 222);
+    font-size: 25px; 
+    padding: 0;  
+}
+.face{
+    background: transparent;
+    color: rgb(228, 226, 226);
+    font-size: 25px;
+    padding: 0;
+}
+.google{
+    background: transparent;
+    color: rgb(228, 218, 218);
+    font-size: 25px;
+    padding: 0;
+}
+.logo{
+   margin-top: 20px;
+   display: flex;
+   justify-content: space-around;
+   
+  
+}
+.act{
+    margin-right: 100px;
+}
+.contact{
+    width:210px;
+    margin-left:50px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.Street{
+    margin-top: 20px;
+    font-size:20px;
+    font-weight: normal;
+}
